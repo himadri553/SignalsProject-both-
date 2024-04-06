@@ -17,3 +17,8 @@ grid on;
 title('Magnitude Response of Third-Order Butterworth Filter');
 xlabel('Frequency (rad/s)');
 ylabel('Magnitude (dB)');
+
+
+%% creidits
+% https://www.youtube.com/watch?v=dmzikG1jZpU
+% 
